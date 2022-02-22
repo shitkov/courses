@@ -1,0 +1,6 @@
+gensim
+pandas
+razdel
+sklearn
+allennlp
+pytorch_lightning
