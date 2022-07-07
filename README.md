@@ -1,4 +1,5 @@
 ### 2022
+- «Algorithmic Toolbox», University of California San Diego
 - «Natural Language Processing», SBER
 - «Deep Learning», SBER
 ### 2021
