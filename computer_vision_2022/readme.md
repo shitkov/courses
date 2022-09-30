@@ -1,1 +1,1 @@
-2022-09-29: Lecture, intro.
+1. 2022-09-29: Lecture, intro.
