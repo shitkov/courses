@@ -1,5 +1,7 @@
 ### 2022
-- «Algorithmic Toolbox», University of California San Diego
+- «Computer vision», SBER
+- «Data Structures», University of California San Diego/Coursera
+- «Algorithmic Toolbox», University of California San Diego/Coursera
 - «Natural Language Processing», SBER
 - «Deep Learning», SBER
 ### 2021
