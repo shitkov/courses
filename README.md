@@ -1,4 +1,6 @@
 ### 2022
+- «HARD ML», Karpov courses
+- «Transformers», SBER
 - «Computer vision», SBER
 - «Data Structures», University of California San Diego/Coursera
 - «Algorithmic Toolbox», University of California San Diego/Coursera
