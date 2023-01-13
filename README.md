@@ -1,6 +1,10 @@
-### 2022
-- «HARD ML», Karpov courses
+### 2023
 - «Transformers», SBER
+- «HARD ML», Karpov courses:
+  - Динамическое ценообразоварие
+### 2022
+- «HARD ML», Karpov courses:
+  - Ранжирование и матчинг
 - «Computer vision», SBER
 - «Data Structures», University of California San Diego/Coursera
 - «Algorithmic Toolbox», University of California San Diego/Coursera
