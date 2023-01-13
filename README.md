@@ -1,7 +1,7 @@
 ### 2023
 - «Transformers», SBER
 - «HARD ML», Karpov courses:
-  - Динамическое ценообразоварие
+  - Динамическое ценообразование
 ### 2022
 - «HARD ML», Karpov courses:
   - Ранжирование и матчинг
