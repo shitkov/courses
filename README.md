@@ -2,6 +2,7 @@
 - «Transformers», SBER
 - «HARD ML», Karpov courses:
   - Динамическое ценообразование
+  - Iplift
 ### 2022
 - «HARD ML», Karpov courses:
   - Ранжирование и матчинг
