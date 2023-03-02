@@ -3,6 +3,7 @@
 - «HARD ML», Karpov courses:
   - Динамическое ценообразование
   - Uplift
+  - A/B testing
 ### 2022
 - «HARD ML», Karpov courses:
   - Ранжирование и матчинг
